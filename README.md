@@ -38,7 +38,7 @@
 
 <table src="hide_border=true">
 <tr>
-  <td colspan="2">
+  <td class="col-md-12">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" />
   </td>
  
