@@ -35,7 +35,7 @@
 </table>
 
 ## My Github stats
-| ![](https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995) | ![](https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&&theme=nord_dark" alt="ayeshz-3995) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995") | ![](https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995") | ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&&theme=nord_dark" alt="ayeshz-3995") |
 | :-: | :-: | :-: |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" /></p>
