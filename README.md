@@ -38,13 +38,20 @@
 
 <table>
 <tr>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" />
+  <td>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" />
+  </td>
+ 
 </tr>
 <tr>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995" /> 
+  <td>
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995" /> 
+  </td>
 </tr>
   <tr>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark" alt="ayeshz-3995" />
+  <td>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark" alt="ayeshz-3995" />
+  </td>
 </tr>
 </table>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" /></p>
