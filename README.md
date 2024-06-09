@@ -14,12 +14,12 @@
 
 - 📄 Know about my experiences [https://ashiwebsolutions.com/wp-content/uploads/2024/03/new-AMD-with-Projects.pdf](https://ashiwebsolutions.com/wp-content/uploads/2024/03/new-AMD-with-Projects.pdf)
 
-## Connect with me
+## 👨🏻‍💻&nbsp;Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-dissanayaka" height="30" width="40" /></a>
 </p>
 
-## My Github stats
+## 📊 &nbsp;My Github stats
 | ![](https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark) | ![](https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark) |
 | :-: | :-: | :-: |
 
