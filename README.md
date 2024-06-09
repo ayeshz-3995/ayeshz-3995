@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  <strong>Ayesha Dissanayaka</strong></h1>
+<h1 align="center">Hi 👋, Welcome to my GITHUB Profile </h1>
 <div align="center">
   <img width="100%" src="assets/Ayesha-Dissanayaka.jpeg" alt="cover" />
 </div>
