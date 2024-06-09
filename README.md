@@ -36,9 +36,9 @@
 
 ## My Github stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact" alt="ayeshz-3995" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&bg_color=071A2C" alt="ayeshz-3995" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en" alt="ayeshz-3995" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&bg_color=071A2C" alt="ayeshz-3995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&" alt="ayeshz-3995" /></p>
 
