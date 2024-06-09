@@ -28,7 +28,7 @@
 | ![](https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark) | ![](https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark) |
 | :-: | :-: | :-: |
 
-<table>
+<table width="100%">
 <tr>
 <td colspan="2">
 <picture>
