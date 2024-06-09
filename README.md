@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  <strong>Ayesha Dissanayaka</strong></h1>
 <div align="center">
-  <img width="100%" src="#" alt="cover" />
+  <img width="100%" src="assets/Ayesha-Dissanayaka.jpeg" alt="cover" />
 </div>
 
 <h5 align="center">Results-driven and experienced Web Developer with expertise in designing, developing, and maintaining dynamic websites. Proficient in both front-end and back-end development, with a strong understanding of modern web technologies with excellent in creating user-friendly and visually appealing web solutions.</h5>
