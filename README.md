@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshz-3995&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshz-3995" /> </p>
 
-## 👇 &nbsp;My Profile
+## 👨🏻‍💻 &nbsp;My Profile
 
 - 👨‍💻 All of my projects are available at [https://ashiwebsolutions.com/](https://ashiwebsolutions.com/)
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://ashiwebsolutions.com/wp-content/uploads/2024/03/new-AMD-with-Projects.pdf](https://ashiwebsolutions.com/wp-content/uploads/2024/03/new-AMD-with-Projects.pdf)
 
-## 👨🏻‍💻&nbsp;Connect with me
+## 🤝&nbsp;Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-dissanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-dissanayaka" height="30" width="40" /></a>
 </p>
