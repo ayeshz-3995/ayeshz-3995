@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm  <strong>Ayesha Dissanayaka</strong></h1>
 <h3 align="center">Results-driven and experienced Web Developer with expertise in designing, developing, and maintaining dynamic websites. Proficient in both front-end and back-end development, with a strong understanding of modern web technologies with excellent in creating user-friendly and visually appealing web solutions.</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" width="200" alt="animated" />
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshz-3995&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshz-3995" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://ashiwebsolutions.com/](https://ashiwebsolutions.com/)
