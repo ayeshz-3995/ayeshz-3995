@@ -35,8 +35,7 @@
 </table>
 
 ## My Github stats
-
-| ![]([http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurspk&theme=nord_dark](https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark)) | ![](https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=nord_dark) | ![]([http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurspk&theme=nord_dark](https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark)) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995) | ![](https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&&theme=nord_dark" alt="ayeshz-3995) |
 | :-: | :-: | :-: |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" /></p>
