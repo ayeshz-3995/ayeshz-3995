@@ -2,6 +2,9 @@
 <div align="center">
   <img width="100%" src="assets/Ayesha-Dissanayaka.jpeg" alt="cover" />
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hello+😀,+This+is+Ayesha+Dissanayaka;+A+Web+Developer👩‍💻;">   
+</p> 
 
 <h4 align="center">Results-driven and experienced Web Developer with expertise in designing, developing, and maintaining dynamic websites. Proficient in both front-end and back-end development, with a strong understanding of modern web technologies with excellent in creating user-friendly and visually appealing web solutions.</h4>
 <hr>
