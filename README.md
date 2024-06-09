@@ -36,27 +36,10 @@
 
 ## My Github stats
 
-<table src="hide_border=true">
-<tr align="center">
 
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" />
-  
- 
-</tr>
-<tr align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" /></p>
 
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995" /> 
-
-</tr>
-  <tr align="center">
-
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark" alt="ayeshz-3995" />
-  
-</tr>
-</table>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark" alt="ayeshz-3995" /></p>
 
