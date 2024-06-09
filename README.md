@@ -36,20 +36,20 @@
 
 ## My Github stats
 
-<table>
+<table src="hide_border=true">
 <tr>
-  <td>
+  <td colspan="2">
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshz-3995&show_icons=true&locale=en&layout=compact&theme=dark" alt="ayeshz-3995" />
   </td>
  
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayeshz-3995&show_icons=true&locale=en&theme=dark" alt="ayeshz-3995" /> 
   </td>
 </tr>
   <tr>
-  <td>
+  <td colspan="2">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshz-3995&theme=dark" alt="ayeshz-3995" />
   </td>
 </tr>
