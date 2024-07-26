@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ashidissanayakadev@gmail.com**
 
-- 📄 Know about my experiences [https://ashiwebsolutions.com/wp-content/uploads/2024/03/new-AMD-with-Projects.pdf](https://ashiwebsolutions.com/wp-content/uploads/2024/03/new-AMD-with-Projects.pdf)
+- 📄 Know about my experiences [https://ashiwebsolutions.com/wp-content/uploads/2024/07/Ayesha-Dissanayaka-updated-Resume-with-Projects.pdf](https://ashiwebsolutions.com/wp-content/uploads/2024/07/Ayesha-Dissanayaka-updated-Resume-with-Projects.pdf)
 
 ## 🤝&nbsp;Connect with me
 <p align="left">
